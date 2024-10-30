@@ -1,0 +1,18 @@
+/*
+* Options styling
+*/
+
+.cnut-shortcode { color: #2ea2cc; }
+.cnut-html-notification-wrap .wp-editor-wrap { width: 80%; }
+.cnut-mail-subject { width: 40%; }
+.cnut-mail-sender { width: 30%; }
+.form-table .cnut-note { color: #FF5A00; font-size: 12px; margin-top: 20px; }
+
+.cnut-sepeartion { border-bottom: 1px solid #ddd; height: 40px; }
+
+@media only screen and (max-width: 959px) {
+
+    .cnut-html-notification-wrap .wp-editor-wrap { width: 100%; }
+
+}
+
